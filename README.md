@@ -19,8 +19,7 @@ room booking, and user authentication.
 ## 📌 How to Run
 1. Download or clone the repository
 2. Open `index.html` in a browser
-
-## 👨‍💻 Developed By
+   
 ## 👥 Team Members
 - **Goutham Reddy Tembareni** – Frontend Design & Page Integration  
 - **<Friend’s Full Name>** – Form Development & Validation
