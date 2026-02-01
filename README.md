@@ -22,4 +22,4 @@ room booking, and user authentication.
    
 ## 👥 Team Members
 - **Goutham Reddy Tembareni** – Frontend Design & Page Integration  
-- **<Friend’s Full Name>** – Form Development & Validation
+- **Praneeth Banda** – Form Development & Validation
