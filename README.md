@@ -21,5 +21,6 @@ room booking, and user authentication.
 2. Open `index.html` in a browser
 
 ## 👨‍💻 Developed By
-Goutham Reddy Tembareni
-Praneeth Banda
+## 👥 Team Members
+- **Goutham Reddy Tembareni** – Frontend Design & Page Integration  
+- **<Friend’s Full Name>** – Form Development & Validation
