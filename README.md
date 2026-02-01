@@ -1,2 +1,25 @@
-# MEDI-SYNC-PROJECT
-A healthcare management system for managing medical records, appointments, and prescriptions.
+# MEDI-SYNC PROJECT 🏥
+
+MEDI-SYNC is a healthcare management web application designed to simplify
+hospital services such as appointment booking, ambulance requests,
+room booking, and user authentication.
+
+## 🚀 Features
+- User Login & Signup
+- Doctor Appointment Booking
+- Ambulance Booking
+- Hospital Room Booking
+- Responsive UI
+
+## 🛠 Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 📌 How to Run
+1. Download or clone the repository
+2. Open `index.html` in a browser
+
+## 👨‍💻 Developed By
+Goutham Reddy Tembareni
+Praneeth Banda
